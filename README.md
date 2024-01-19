@@ -34,15 +34,3 @@ Welcome to the Animal Care Project! This web application is dedicated to promoti
 ### 10. **Educational Outreach**
    - Participate in and organize educational events to raise awareness about responsible pet ownership and animal welfare.
 
-## Getting Started
-
-Follow these steps to get started with the Animal Care Project:
-1. Clone this repository.
-2. Open the `index.html` file in your preferred web browser.
-3. Explore the different features, from pet care resources to the adoption center.
-4. Contribute to the pet community and share valuable insights.
-
-We hope this platform enhances your experience as a pet owner and advocate for animal welfare. If you have any feedback, suggestions, or encounter issues, please feel free to open an issue in this repository.
-
-Thank you for caring for our furry friends!
-
