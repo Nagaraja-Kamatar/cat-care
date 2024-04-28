@@ -34,6 +34,8 @@ Join our community forum to discuss cat-related topics, share experiences, and s
 
 - HTML
 - Bootstrap
+  <img width="1440" alt="Screenshot 2024-04-28 at 10 32 40 PM" src="https://github.com/Nagaraja-Kamatar/cat-care/assets/145822414/32e74efb-2640-4906-8b50-0cfb24a33d37">
 
   <img width="1440" alt="Screenshot 2024-04-28 at 10 32 59 PM" src="https://github.com/Nagaraja-Kamatar/cat-care/assets/145822414/2f30d0f5-a450-4727-8f4e-fc614b0560d2">
+  
 
